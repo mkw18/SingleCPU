@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat May 16 22:03:56 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : SCPU
+Top-level Entity Name : SCPU
+Family : Cyclone II
+Device : EP2C5Q208C8
+Timing Models : Final
+Total logic elements : 2,643 / 4,608 ( 57 % )
+    Total combinational functions : 1,591 / 4,608 ( 35 % )
+    Dedicated logic registers : 1,829 / 4,608 ( 40 % )
+Total registers : 1829
+Total pins : 107 / 142 ( 75 % )
+Total virtual pins : 0
+Total memory bits : 29,952 / 119,808 ( 25 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

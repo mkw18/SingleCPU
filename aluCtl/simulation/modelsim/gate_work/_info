@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\projects\SingleCPU\aluCtl\simulation\modelsim
+valuCtl
+IkX[EX<0[G8`bPI:0H3:l<1
+VjjWhfBW3`8am3BU5lcUcD3
+Z1 dC:\altera\13.0sp1\projects\SingleCPU\aluCtl\simulation\modelsim
+w1588406871
+8aluCtl.vo
+FaluCtl.vo
+L0 31
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+nalu@ctl
+!i10b 1
+!s100 g4?AEZPIo^m0X@@2cg6n61
+!s85 0
+!s108 1588406884.148000
+!s107 aluCtl.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|aluCtl.vo|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+. -O0
+valuCtl_test
+!i10b 1
+!s100 6zC6zR3GM@5jWb@C<:z6=0
+IzFj=L@7;_HRYGdF0H?89L3
+VGC2FinBL3NhPN5Q:R=R<G0
+R1
+w1588406694
+8C:/altera/13.0sp1/projects/SingleCPU/aluCtl/aluCtl_test.v
+FC:/altera/13.0sp1/projects/SingleCPU/aluCtl/aluCtl_test.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1588406884.553000
+!s107 C:/altera/13.0sp1/projects/SingleCPU/aluCtl/aluCtl_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/altera/13.0sp1/projects/SingleCPU/aluCtl|C:/altera/13.0sp1/projects/SingleCPU/aluCtl/aluCtl_test.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+C:/altera/13.0sp1/projects/SingleCPU/aluCtl -O0
+nalu@ctl_test
